@@ -1,0 +1,167 @@
+html {
+    background-image: url(https://i.pinimg.com/originals/36/38/ef/3638ef64257853ba6602a489cfbdb023.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    float: left;
+    background-color: #4aaaa5;
+    margin-left: 20%;
+}
+
+
+
+nav {
+    float: right;
+    margin-right: 25%;
+    margin-top: 30px;
+}
+
+#aboutnav {
+    float: left;
+    padding-right: 10px;
+    border-right: black;
+    border-right-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+}
+
+#contactnav {
+    float: left;
+    padding-right: 10px;
+    border-right: black;
+    border-right-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+}
+
+#portnav {
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.top {
+    background-color: #ffffff;
+    width: 100%;
+    float: left;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+}
+
+#HS {
+    float: left;
+
+}
+
+.main {
+    clear: both;
+    max-width: 960px;
+    width: 960px;
+    background-color: #ffffff;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    position: fixed;
+    left: 20%;
+    top: 20%;
+    float: left;
+    
+}
+
+h2 {
+    color: #4aaaa5;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color: gray;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    padding-right: 50px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    background-color: rgb(75, 75, 75);
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: #4aaaa5;
+    height: 10%;
+    padding-top: 10px;
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    color: #ffffff;
+}
+
+.portfolio {
+    background-color: #ffffff;
+    width: 960px;
+    position: fixed;
+    left: 25%;
+    top: 20%;
+}
+
+.toprow {
+    float: left;
+    margin: 50px;
+    clear: both;
+    position: relative;
+    
+}
+
+.midrow {
+    float: left;
+    margin: 50px;
+    clear: both;
+    position: relative;
+        
+}
+
+.botrow {
+    float: left;
+    margin: 50px;
+    clear: both;
+    position: relative;
+            
+}
+
+.Contact {
+    background-color: #ffffff;
+    width: 960px;
+    position: fixed;
+    left: 25%;
+    top: 20%;
+}
+
+.form {
+    padding-left: 40px;
+    padding-bottom: 20px;
+    line-height: 25px;
+}
+
+#bigger {
+    padding: 100px 200px;
+    text-align: left;
+}
+
+button {
+    margin: 10px 10px 10px 40px;
+}
+
